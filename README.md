@@ -1,2 +1,2 @@
 # LetsUpgrade-AI-ML
-Assugnments
+Assignments
